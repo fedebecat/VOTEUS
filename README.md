@@ -7,6 +7,8 @@ The goal is to provide an intuitive interface to configure and run the algorithm
 
 ![voteus-img](https://raw.githubusercontent.com/fedebecat/VOTEUS/master/imgs/figure_2.jpg)
 
+VOTEUS has been conceived and developed by Duccio Piccardi and Federico Becattini
+
 # ROADMAP
 VOTEUS is currently under development for Linux and Windows operating systems and is going to be released under the MIT license, therefore allowing users to include and modify its source code within other projects. An alpha release of VOTEUS is scheduled to be released in early 2019.
 
