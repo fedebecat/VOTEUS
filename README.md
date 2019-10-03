@@ -10,18 +10,18 @@ The goal is to provide an intuitive interface to configure and run the algorithm
 VOTEUS has been conceived and developed by Duccio Piccardi and Federico Becattini
 
 # ROADMAP
-VOTEUS is currently under development for Linux and Windows operating systems and is going to be released under the MIT license, therefore allowing users to include and modify its source code within other projects. An alpha release of VOTEUS is scheduled to be released in early 2019.
+VOTEUS is currently under development for Linux and Windows operating systems and is going to be released under the MIT license, therefore allowing users to include and modify its source code within other projects. An alpha release of VOTEUS is scheduled to be released in the next months, as soon as the integration between different modules will be refined.
 
 #### Feature development
 - [x] Dataset loading (100%)
 - [x] Waveform (100%)
 - [x] Spectrogram (100%)
 - [ ] AutoVOT
---  Backend integration (75%)
--- Frontend development (70%)
-- [ ] Force alignment (25%)
+--  Backend integration (80%)
+-- Frontend development (75%)
+- [ ] Force alignment (30%)
 - [ ] Train model
--- Backend integration (75%)
+-- Backend integration (80%)
 -- Frontend integration (80%)
 - [ ] Refine tier (50%)
 - [ ] Export (40%)
